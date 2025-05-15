@@ -1,0 +1,2 @@
+# NarutoSenki
+Naruto Senki is a modified or mod game for the Naruto game which is very popular among fans. This game offers various improvements and new features compared to the original version, such as additional characters, new jutsu, and modified storylines.
